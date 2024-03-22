@@ -1,0 +1,9 @@
+django==5.0.1
+git+https://github.com/huggingface/transformers.git
+requests==2.31.0
+Pillow==10.2.0
+torch==2.2.0
+accelerate==0.26.1
+sentencepiece==0.2.0
+tesseract-ocr==0.0.1
+pytesseract==0.3.10
